@@ -24,23 +24,6 @@ Client-side routing for page navigation between create, update, and home views.
 📱 Responsive Design
 Tailwind CSS used for beautiful, clean UI across devices.
 
-📂 Folder Structure
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Create.js
-│   │   ├── Home.js
-│   │   └── Update.js
-│   ├── Reducer/
-│   │   └── UserReducer.js
-│   ├── App.js
-│   ├── main.jsx
-│   └── store.js
-├── .gitignore
-├── package.json
-└── README.md
-
-
 🛠️ Technologies Used
 React.js – Frontend UI
 
